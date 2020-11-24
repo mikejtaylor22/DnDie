@@ -1,4 +1,6 @@
+# A dice rolling app perfect for your DND game night!
 # dndie
+
 
 > A Vue.js project
 
