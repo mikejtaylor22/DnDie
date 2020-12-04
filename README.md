@@ -1,6 +1,6 @@
 # A dice rolling app perfect for your DND game night!
 # dndie
-
+View app at https://dice-arena.web.app/
 
 > A Vue.js project
 
